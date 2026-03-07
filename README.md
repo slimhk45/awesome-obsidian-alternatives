@@ -8,7 +8,7 @@ To be listed here, the FOSS Obsidian clone must work with Obsidian vaults **with
 [^1]: a JSON Canvas implementation must at least appears on the roadmap if not presently implemented.
 [^2]: both short path and long path in wikilinks must be understood and updated.
 
-- **[Lokus](https://github.com/lokus-ai/lokus)** > cross-platform, canvas supported, base views supported
+- **[Lokus](https://github.com/lokus-ai/lokus)** > cross-platform, canvas supported, graph and base views supported
 - **[Otterly](https://github.com/ajkdrag/otterly)** > cross-platform, canvas planned
 - **[Cherit](https://github.com/Keshav-writes-code/Cherit)** > cross-platform, canvas planned?
 - **[Foam](https://github.com/foambubble/foam)** > VS Code plugin, not cross-platform
