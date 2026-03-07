@@ -32,7 +32,7 @@ Implementations listed here require an importer step for Obsidian vaults because
 ## Canvas Editors
 - **[Excalidraw](https://github.com/excalidraw/excalidraw)**  
 - **[TLDraw](https://github.com/tldraw/tldraw)**
-- **[React Flow](https://github.com/xyflow/xyflow)**
+- **[React & Svelte Flow](https://github.com/xyflow/xyflow)**
 
 ## File Format Specs and Tooling
 - **[Obsidian-Flavored Markdown](https://help.obsidian.md/obsidian-flavored-markdown)**
