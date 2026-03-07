@@ -1,6 +1,6 @@
 # awesome-obsidian-alternatives
 
-![Discord Obsidian Clones](https://discord.com/api/guilds/HCYapfUQJ/widget.png?style=banner1)
+![Discord Obsidian Clones](https://discord.com/api/guilds/1479794793394737152/widget.png?style=banner1)
 
 ---
 
