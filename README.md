@@ -1,5 +1,9 @@
 # awesome-obsidian-alternatives
 
+![Discord Obsidian Clones](https://discord.com/api/guilds/HCYapfUQJ/widget.png?style=banner1)
+
+---
+
 To be listed here, the Obsidian clone must work with Obsidian vaults **without requiring a custom importer or conversion step**. 
 This means same Markdown and JSON Canvas format[^1], same bidirectionnal link handling[^2] and same arbitrary folder structure for notes and their attachments.
 Other features are optional.
