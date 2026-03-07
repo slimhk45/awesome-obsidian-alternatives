@@ -1,6 +1,6 @@
 [![Discord Banner](https://discord.com/api/guilds/1479794793394737152/widget.png?style=banner2)](https://discord.gg/fhwfqZzEJf)
 
-# List of clones
+# List of FOSS Obsidian Clones
 
 ## Tier 1 (Obsidian-compatible)
 To be listed here, the FOSS Obsidian clone must work with Obsidian vaults **without requiring a custom importer or conversion step**. This means same Markdown and JSON Canvas format[^1], same bidirectionnal link handling[^2] and same free folder structure for notes and their attachments. Other features are optional.
