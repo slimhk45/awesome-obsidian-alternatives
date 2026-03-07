@@ -1,4 +1,4 @@
-[![Discord Banner](https://discord.com/api/guilds/1479794793394737152/widget.png?style=banner2)](https://discord.gg/fhwfqZzEJf)
+[![Discord Banner](https://discord.com/api/guilds/1479794793394737152/widget.png?style=banner3)](https://discord.gg/fhwfqZzEJf)
 
 # List of FOSS Obsidian Clones
 
