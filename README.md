@@ -1,30 +1,31 @@
 # awesome-obsidian-alternatives
 
-```html
-<img src="https://discord.com/api/guilds/1479794793394737152/widget.png?style=shield" alt="Discord Shield"/>
-```
+[![Discord Banner](https://discord.com/api/guilds/1479794793394737152/widget.png?style=banner2)](https://discord.gg/fhwfqZzEJf)
 
----
+# List of clones
 
-To be listed here, the Obsidian clone must work with Obsidian vaults **without requiring a custom importer or conversion step**. 
-This means same Markdown and JSON Canvas format[^1], same bidirectionnal link handling[^2] and same arbitrary folder structure for notes and their attachments.
-Other features are optional.
+## Tier 1 (Obsidian-compatible)
+To be listed here, the FOSS Obsidian clone must work with Obsidian vaults **without requiring a custom importer or conversion step**. This means same Markdown and JSON Canvas format[^1], same bidirectionnal link handling[^2] and same free folder structure for notes and their attachments. Other features are optional.
 
 [^1]: a JSON Canvas implementation must at least appears on the roadmap if not presently implemented.
 [^2]: both short path and long path in wikilinks must be understood and updated.
-
-# List of clones
 
 - **[Lokus](https://github.com/lokus-ai/lokus)** > cross-platform, canvas supported, base views supported
 - **[Otterly](https://github.com/ajkdrag/otterly)** > cross-platform, canvas planned
 - **[Cherit](https://github.com/Keshav-writes-code/Cherit)** > cross-platform, canvas planned?
 - **[Foam](https://github.com/foambubble/foam)** > VS Code plugin, not cross-platform
 
+## Tier 2 (opinionated)
+Implementations listed here require an importer step for Obsidian vaults because they have hard-coded the attachment folder or they decided to enforce long paths for wikilinks. They must still have a free folder structure for notes and the same file formats as Obsidian.
+
+- [**HelixNotes**](https://codeberg.org/ArkHost/HelixNotes) 
+
 # Supporting Tech Stack
 
 ## UI Frameworks
 - **[Tauri](https://github.com/tauri-apps/tauri)**  
-- **[Visual Studio Code](https://github.com/microsoft/vscode)**
+- **[React](https://github.com/facebook/react)**
+- **[Svelte](https://github.com/sveltejs/svelte)**
 
 ## Markdown Editors
 - **[CodeMirror](https://github.com/codemirror/dev)**  
