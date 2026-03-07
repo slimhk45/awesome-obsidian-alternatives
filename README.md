@@ -38,4 +38,4 @@ Other features are optional.
 
 # Suggestions
 
-Open an issue if you know new Obsidian clones or technology supporting their creation!
+Open an issue if you know new Obsidian clones or technologies supporting their creation!
