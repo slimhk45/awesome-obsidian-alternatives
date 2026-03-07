@@ -1,6 +1,8 @@
 # awesome-obsidian-alternatives
 
-![Discord Obsidian Clones](https://discord.com/api/guilds/1479794793394737152/widget.png?style=banner1)
+```html
+<img src="https://discord.com/api/guilds/1479794793394737152/widget.png?style=shield" alt="Discord Shield"/>
+```
 
 ---
 
