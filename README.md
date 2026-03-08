@@ -33,13 +33,13 @@ Implementations listed here require an importer step for Obsidian vaults because
 - **[Excalidraw](https://github.com/excalidraw/excalidraw)**  
 - **[TLDraw](https://github.com/tldraw/tldraw)**
 - **[React & Svelte Flow](https://github.com/xyflow/xyflow)**
-- **[Throwdown JSON Canva Editor](https://github.com/staticeys/Throwdown)** (experimental)
+- **[Throwdown JSON Canvas editor](https://github.com/staticeys/Throwdown)** (experimental)
 
 ## File Format Specs and Tooling
 - **[Obsidian-Flavored Markdown](https://help.obsidian.md/obsidian-flavored-markdown)**
 - **[reMark](https://github.com/remarkjs/remark)**
 - **[JSON Canvas](https://github.com/obsidianmd/jsoncanvas)**
-- **[Open Canvas Working Group's Tools](https://github.com/ocwg)**
+- **[Open Canvas Working Group's serialization tools](https://github.com/ocwg)**
 
 
 # Suggestions
