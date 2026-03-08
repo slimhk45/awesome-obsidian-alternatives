@@ -20,7 +20,7 @@ Implementations listed here require an importer step for Obsidian vaults because
 
 - [**HelixNotes**](https://codeberg.org/ArkHost/HelixNotes) > cross-platform, UpNote-like UI
 
-# Supporting Tech Stack
+# Tech Stack for Building Obsidian Clones
 
 ## UI Frameworks
 - **[Tauri](https://github.com/tauri-apps/tauri)**  
@@ -44,7 +44,7 @@ Implementations listed here require an importer step for Obsidian vaults because
 - **[Open Canvas Working Group's serialization tools](https://github.com/ocwg)**
 
 
-## Community
+# Community
 
 This ecosystem is built for anyone interested in **FOSS alternatives compatible with the Obsidian vault format**. There are several ways to get involved, discuss projects, or suggest additions:
 
