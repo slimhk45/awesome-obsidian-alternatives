@@ -6,14 +6,14 @@
 To be listed here, the FOSS Obsidian clone must work with Obsidian vaults **without requiring a custom importer or conversion step**. This means same Markdown and JSON Canvas formats[^1], same bidirectionnal link handling[^2] and same free folder structure for notes and their attachments. Other features are optional.
 
 [^1]: a JSON Canvas implementation must at least appears on the roadmap if not presently implemented.
-[^2]: both wililinks with short path and full path must be understood and updated after renaming operations.
+[^2]: both wililinks with short path and long path must be understood and updated after renaming operations.
 
 - **[Lokus](https://github.com/lokus-ai/lokus)** > cross-platform, canvas supported[^3], graph and base views supported
 - **[Otterly](https://github.com/ajkdrag/otterly)** > cross-platform, canvas planned
 - **[Cherit](https://github.com/Keshav-writes-code/Cherit)** > cross-platform, canvas planned
 - **[Foam](https://github.com/foambubble/foam)** > VS Code plugin, not cross-platform
 
-[^3]: Only Excalidraw format for now, using JSON Canvas as storage format is on the roadmap.
+[^3]: Only Excalidraw format for now, but using JSON Canvas as storage format is on the roadmap.
 
 ## Tier 2 (opinionated)
 Implementations listed here require an importer step for Obsidian vaults because they have hard-coded the attachment folder or they decided to enforce long path for the wikilinks. They are still required to have a free folder structure for notes and the same file formats as Obsidian.
