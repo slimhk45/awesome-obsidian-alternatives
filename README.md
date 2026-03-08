@@ -1,4 +1,5 @@
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Discord Banner](https://discord.com/api/guilds/1479794793394737152/widget.png?style=banner1](https://discord.gg/fhwfqZzEJf)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![Discord Banner](https://discord.com/api/guilds/1479794793394737152/widget.png?style=banner1](https://discord.gg/fhwfqZzEJf)
 
 # List of FOSS Obsidian Clones
 
