@@ -8,10 +8,12 @@ To be listed here, the FOSS Obsidian clone must work with Obsidian vaults **with
 [^1]: a JSON Canvas implementation must at least appears on the roadmap if not presently implemented.
 [^2]: both short path and long path in wikilinks must be understood and updated.
 
-- **[Lokus](https://github.com/lokus-ai/lokus)** > cross-platform, canvas supported, graph and base views supported
+- **[Lokus](https://github.com/lokus-ai/lokus)** > cross-platform, canvas supported[^3], graph and base views supported
 - **[Otterly](https://github.com/ajkdrag/otterly)** > cross-platform, canvas planned
-- **[Cherit](https://github.com/Keshav-writes-code/Cherit)** > cross-platform, canvas planned?
+- **[Cherit](https://github.com/Keshav-writes-code/Cherit)** > cross-platform, canvas planned
 - **[Foam](https://github.com/foambubble/foam)** > VS Code plugin, not cross-platform
+
+[^3]: Only Excalidraw format for now, using JSON Canvas as storage format is on the roadmap.
 
 ## Tier 2 (opinionated)
 Implementations listed here require an importer step for Obsidian vaults because they have hard-coded the attachment folder or they decided to enforce long path for all wikilinks. They are still required to have a free folder structure for notes and the same file formats as Obsidian.
@@ -46,8 +48,8 @@ Implementations listed here require an importer step for Obsidian vaults because
 
 This ecosystem is built for anyone interested in **FOSS alternatives compatible with the Obsidian vault format**. There are several ways to get involved, discuss projects, or suggest additions:
 
-- **Discord** – Chat with developers and users about implementations, suggestions, and contributions: [Obsidian Alternative Discord](https://discord.gg/fhwfqZzEJf)
-- **Subreddit** – Discuss projects, share updates, and ask questions: [r/ObsidianAlternative](https://www.reddit.com/r/ObsidianAlternative/)
+- **Discord** – Chat with developers and users about implementations, suggestions, and contributions at: [Obsidian Alternative Discord](https://discord.gg/fhwfqZzEJf)
+- **Subreddit** – Discuss projects, share updates, and ask questions at: [r/ObsidianAlternative](https://www.reddit.com/r/ObsidianAlternative/)
 - **Contributing** – Know of a project we missed or want to improve this list? Open an issue.
 
 We encourage **FOSS enthusiasts, PKM users, and developers** to join and help grow this ecosystem!
