@@ -14,7 +14,7 @@ To be listed here, the FOSS Obsidian clone must work with Obsidian vaults **with
 - **[Foam](https://github.com/foambubble/foam)** > VS Code plugin, not cross-platform
 
 ## Tier 2 (opinionated)
-Implementations listed here require an importer step for Obsidian vaults because they have hard-coded the attachment folder or they decided to enforce long path for wikilinks. They are still required to have a free folder structure for notes and the same file formats as Obsidian.
+Implementations listed here require an importer step for Obsidian vaults because they have hard-coded the attachment folder or they decided to enforce long path for all wikilinks. They are still required to have a free folder structure for notes and the same file formats as Obsidian.
 
 - [**HelixNotes**](https://codeberg.org/ArkHost/HelixNotes) > cross-platform, UpNote-like UI
 
