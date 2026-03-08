@@ -50,6 +50,6 @@ This ecosystem is built for anyone interested in **FOSS alternatives compatible 
 
 - **Discord** – Chat with developers and users about implementations, suggestions, and contributions on [Obsidian Alternative Discord](https://discord.gg/fhwfqZzEJf)
 - **Subreddit** – Discuss projects, share updates, and ask questions on [r/ObsidianAlternative](https://www.reddit.com/r/ObsidianAlternative/)
-- **Contributing** – Know of a project we missed or want to improve this list? Open an issue.
+- **Contributing** – Know of a project we missed or want to improve this list? You can open an issue.
 
 We encourage **FOSS enthusiasts, PKM users, and developers** to join and help grow this ecosystem!
