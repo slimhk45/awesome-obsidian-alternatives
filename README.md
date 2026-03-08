@@ -44,4 +44,4 @@ Implementations listed here require an importer step for Obsidian vaults because
 
 # Suggestions
 
-Open an issue if you know new Obsidian clones or technologies supporting their creation!
+Open an issue if you know a new Obsidian clones or technologies supporting their creation!
