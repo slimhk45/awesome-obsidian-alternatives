@@ -48,8 +48,8 @@ Implementations listed here require an importer step for Obsidian vaults because
 
 This ecosystem is built for anyone interested in **FOSS alternatives compatible with the Obsidian vault format**. There are several ways to get involved, discuss projects, or suggest additions:
 
-- **Discord** – Chat with developers and users about implementations, suggestions, and contributions at: [Obsidian Alternative Discord](https://discord.gg/fhwfqZzEJf)
-- **Subreddit** – Discuss projects, share updates, and ask questions at: [r/ObsidianAlternative](https://www.reddit.com/r/ObsidianAlternative/)
+- **Discord** – Chat with developers and users about implementations, suggestions, and contributions on the [Obsidian Alternative Discord](https://discord.gg/fhwfqZzEJf)
+- **Subreddit** – Discuss projects, share updates, and ask questions on [r/ObsidianAlternative](https://www.reddit.com/r/ObsidianAlternative/)
 - **Contributing** – Know of a project we missed or want to improve this list? Open an issue.
 
 We encourage **FOSS enthusiasts, PKM users, and developers** to join and help grow this ecosystem!
