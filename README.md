@@ -1,13 +1,13 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Discord Banner](https://discord.com/api/guilds/1479794793394737152/widget.png)](https://discord.gg/fhwfqZzEJf)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/obsidianalternative?style=social&logo=reddit)](https://www.reddit.com/r/ObsidianAlternative)
 
-# List of FOSS Obsidian Clones
+# List of active FOSS Obsidian Clones
 
 ## Tier 1 (fully Obsidian-compatible)
 To be listed here, the FOSS Obsidian clone must work with Obsidian vaults **without requiring a custom importer or conversion step**. This means same **Markdown[^0]** and **JSON Canvas[^1]**, same **bidirectionnal link handling[^2]** and same **free folder structure** for notes and their attachments. Other features are optional.
 
 [^0]: Obsidian-flavored Markdown. 
-[^1]: implementing JSON Canvas as storage format must at least appears on the roadmap if not present.
+[^1]: implementing JSON Canvas as storage format must at least be present on the roadmap.
 [^2]: both wililinks with short path and long path must be understood and updated after renaming operations.
 
 - **[Lokus](https://github.com/lokus-ai/lokus)** > cross-platform, canvas supported[^3], graph and base views supported
