@@ -24,34 +24,35 @@ Implementations listed here require an importer step for Obsidian vaults because
 
 # Tech Stack for Building Obsidian Clones
 
-## UI Frameworks
-- **[Tauri](https://github.com/tauri-apps/tauri)**  
+## Filesystem
+- **[Tauri](https://github.com/tauri-apps/tauri)**
+- **[Notify]**(https://github.com/notify-rs/notify)
+
+## UI
 - **[React](https://github.com/facebook/react)**
 - **[Svelte](https://github.com/sveltejs/svelte)**
 
-## Markdown Editors
+## Markdown
+- **[Obsidian-Flavored Markdown spec](https://help.obsidian.md/obsidian-flavored-markdown)**
 - **[CodeMirror](https://github.com/codemirror/dev)**  
 - **[ProseMirror](https://github.com/ProseMirror/prosemirror)**
- 
-## Canvas Editors
+- **[reMark](https://github.com/remarkjs/remark)**
+
+## Canvas
+- **[JSON Canvas spec](https://github.com/obsidianmd/jsoncanvas)**
 - **[Excalidraw](https://github.com/excalidraw/excalidraw)**  
 - **[TLDraw](https://github.com/tldraw/tldraw)**
 - **[React & Svelte Flow](https://github.com/xyflow/xyflow)**
 - **[Throwdown JSON Canvas editor](https://github.com/staticeys/Throwdown)** (experimental)
-
-## File Format Specs and Tooling
-- **[Obsidian-Flavored Markdown](https://help.obsidian.md/obsidian-flavored-markdown)**
-- **[reMark](https://github.com/remarkjs/remark)**
-- **[JSON Canvas](https://github.com/obsidianmd/jsoncanvas)**
-- **[Open Canvas Working Group's serialization tools](https://github.com/ocwg)**
+- **[Open Canvas Interchange Format sync tools](https://github.com/ocwg)**
 
 
 # Community
 
-This ecosystem is built for anyone interested in **FOSS alternatives compatible with the Obsidian vault format**. There are several ways to get involved, discuss projects, or suggest additions:
+This ecosystem is built for anyone interested in **FOSS alternatives compatible with the Obsidian vault format**. There are three channels to get involved:
 
-- **Discord** – Chat with developers and users about implementations, suggestions, and contributions on [Obsidian Alternative Discord](https://discord.gg/fhwfqZzEJf)
-- **Subreddit** – Discuss projects, share updates, and ask questions on [r/ObsidianAlternative](https://www.reddit.com/r/ObsidianAlternative/)
-- **Contributing** – Know of a project we missed or want to improve this list? You can open an issue.
+- **[Discord](https://discord.gg/fhwfqZzEJf)** – Chat with developers and other users about the future of the ecosystem on our server.
+- **[r/ObsidianAlternative](https://www.reddit.com/r/ObsidianAlternative/)** - Follow the latests updates and ask questions on our subreddit.
+- **Github** – Know of a project we missed or want to improve this list? You can open an issue.
 
 We encourage **FOSS enthusiasts, PKM users, and developers** to join and help grow this ecosystem!
