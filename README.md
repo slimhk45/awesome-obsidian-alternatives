@@ -1,6 +1,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Discord Banner](https://discord.com/api/guilds/1479794793394737152/widget.png)](https://discord.gg/fhwfqZzEJf)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/obsidianalternative?style=social&logo=reddit)](https://www.reddit.com/r/ObsidianAlternative)
 
+
 # 📂 List of active FOSS Obsidian Clones
 
 ## Tier 1 (fully Obsidian-compatible)
@@ -23,6 +24,7 @@ Implementations listed here require an importer step for Obsidian vaults due to 
 
 - [**HelixNotes**](https://codeberg.org/ArkHost/HelixNotes) > cross-platform, UpNote-like UI
 
+
 # 🚀 Tech Stack for Building Obsidian Clones
 Essential tools for developers that want to make Obsidian clones a true commodity for the future, with their own clone.
 
@@ -42,11 +44,11 @@ Essential tools for developers that want to make Obsidian clones a true commodit
 
 ## Canvas
 - **[JSON Canvas spec](https://github.com/obsidianmd/jsoncanvas)**
+- **[Open Canvas Interchange Format tools](https://github.com/ocwg)**
 - **[Excalidraw](https://github.com/excalidraw/excalidraw)**  
 - **[TLDraw](https://github.com/tldraw/tldraw)**
 - **[React & Svelte Flow](https://github.com/xyflow/xyflow)**
 - **[Throwdown JSON Canvas editor](https://github.com/staticeys/Throwdown)** (experimental)
-- **[Open Canvas Interchange Format tools](https://github.com/ocwg)**
 
 
 # 🌎 Community
