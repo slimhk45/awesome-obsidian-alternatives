@@ -26,7 +26,7 @@ Implementations listed here require an importer step for Obsidian vaults because
 
 ## Filesystem
 - **[Tauri](https://github.com/tauri-apps/tauri)**
-- **[Notify]**(https://github.com/notify-rs/notify)
+- **[Notify](https://github.com/notify-rs/notify)**
 
 ## UI
 - **[React](https://github.com/facebook/react)**
