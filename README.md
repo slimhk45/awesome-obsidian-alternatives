@@ -7,8 +7,9 @@
 To be listed here, the FOSS Obsidian clone must work with Obsidian vaults **without requiring a custom importer or conversion step**. This means same **Markdown[^0]** and **JSON Canvas[^1]**, same **bidirectionnal link handling[^2]** and same **free folder structure** for notes and their attachments. Other features are optional.
 
 [^0]: Obsidian-flavored Markdown. 
-[^1]: implementing JSON Canvas as storage format must at least be present on the roadmap.
-[^2]: both wililinks with short path and long path must be understood and updated after renaming operations.
+[^1]: Implementing JSON Canvas as storage format must at least be present on the roadmap.
+[^2]: Both wililinks with short path and long path must be understood and updated after renaming operations.
+[^3]: Are considered optional features built-in P2P sync and views (graph view, base view) parsing secondary metadata defined in YAML frontmatters.
 
 - **[Lokus](https://github.com/lokus-ai/lokus)** > cross-platform, canvas supported[^3], graph and base views supported
 - **[Otterly](https://github.com/ajkdrag/otterly)** > cross-platform, canvas planned
