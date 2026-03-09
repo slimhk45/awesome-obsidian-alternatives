@@ -19,7 +19,7 @@ To be listed here, the FOSS Obsidian clone must work with the Obsidian vault for
 [^5]: Only Excalidraw format for now, but using JSON Canvas as storage format is on the roadmap.
 
 ## Tier 2 (opinionated)
-Implementations listed here require an importer step for Obsidian vaults because they have **hard-coded the attachment folder** or they decided to **enforce long path** for the wikilinks. They are still required to have a free folder structure for notes and the same file formats as Obsidian.
+Implementations listed here require an importer step for Obsidian vaults because they have **hard-coded the attachment folder** or they decided to **enforce long path** for the wikilinks. They are not required to support canvas but they are still required to have a free folder structure for markdown notes.
 
 - [**HelixNotes**](https://codeberg.org/ArkHost/HelixNotes) > cross-platform, UpNote-like UI
 
