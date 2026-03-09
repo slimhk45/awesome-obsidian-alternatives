@@ -52,7 +52,7 @@ Implementations listed here require an importer step for Obsidian vaults because
 This ecosystem is built for anyone interested in **FOSS alternatives compatible with the Obsidian vault format**. There are three channels to get involved:
 
 - **[Discord](https://discord.gg/fhwfqZzEJf)** – Chat with developers and other users about the future of the ecosystem on our server.
-- **[r/ObsidianAlternative](https://www.reddit.com/r/ObsidianAlternative/)** - Follow the latests updates and ask questions on our subreddit.
-- **Github** – Know of a project we missed or want to improve this list? You can open an issue.
+- **[r/ObsidianAlternative](https://www.reddit.com/r/ObsidianAlternative/)** - Follow the latests updates and ask questions about the mentioned projects on our subreddit.
+- **[Github](https://github.com/slimhk45/awesome-obsidian-alternatives/issues)** – Know of a project we missed or want to improve this list? You can open an issue.
 
 We encourage **FOSS enthusiasts, PKM users, and developers** to join and help grow this ecosystem!
