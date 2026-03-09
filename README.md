@@ -28,7 +28,7 @@ Implementations listed here require an importer step for Obsidian vaults due to 
 # 🚀 Tech Stack for Building Obsidian Clones
 Essential tools for developers that want to make Obsidian clones a true commodity for the future, with their own clone.
 
-## Filesystem
+## Framework/Filesystem
 - **[Tauri](https://github.com/tauri-apps/tauri)**
 - **[Notify](https://github.com/notify-rs/notify)**
 
