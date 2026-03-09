@@ -1,10 +1,10 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Discord Banner](https://discord.com/api/guilds/1479794793394737152/widget.png)](https://discord.gg/fhwfqZzEJf)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/obsidianalternative?style=social&logo=reddit)](https://www.reddit.com/r/ObsidianAlternative)
 
-# List of active FOSS Obsidian Clones
+# 📂 List of active FOSS Obsidian Clones
 
 ## Tier 1 (fully Obsidian-compatible)
-To be listed here, the FOSS Obsidian clone must work with Obsidian vaults **without requiring a custom importer or conversion step**. This means same **Markdown[^0]** and **JSON Canvas[^1]**, same **bidirectionnal link handling[^2]** and same **free folder structure** for notes and their attachments. **Other features[^3] are optional**.
+To be listed here, the FOSS Obsidian clone must work with Obsidian vaults **without requiring a custom importer or conversion step**. This means same **Markdown[^0]** and **JSON Canvas[^1]**, same **bidirectional link handling[^2]** and same **free folder structure** for notes and their attachments. **Other features[^3] are optional**.
 
 [^0]: Obsidian-flavored Markdown. 
 [^1]: Implementing JSON Canvas as storage format must at least be present on the roadmap.
@@ -23,7 +23,7 @@ Implementations listed here require an importer step for Obsidian vaults because
 
 - [**HelixNotes**](https://codeberg.org/ArkHost/HelixNotes) > cross-platform, UpNote-like UI
 
-# Tech Stack for Building Obsidian Clones
+# 🚀 Tech Stack for Building Obsidian Clones
 Essential tools for developers that want to make Obsidian clones a true commodity for the future, with their own clone.
 
 ## Filesystem
@@ -49,12 +49,12 @@ Essential tools for developers that want to make Obsidian clones a true commodit
 - **[Open Canvas Interchange Format sync tools](https://github.com/ocwg)**
 
 
-# Community
+# 🌎 Community
 
 This ecosystem is built for anyone interested in **FOSS alternatives compatible with the Obsidian vault format**. There are three channels to get involved:
 
 - **[Discord](https://discord.gg/fhwfqZzEJf)** – Chat with developers and other users about the future of the ecosystem on our server.
-- **[r/ObsidianAlternative](https://www.reddit.com/r/ObsidianAlternative/)** - Follow the latests updates and ask questions about the mentioned projects on our subreddit.
+- **[r/ObsidianAlternative](https://www.reddit.com/r/ObsidianAlternative/)** - Follow the latest updates and ask questions about the mentioned projects on our subreddit.
 - **[Github](https://github.com/slimhk45/awesome-obsidian-alternatives/issues)** – Know of a project we missed or want to improve this list? You can open an issue.
 
 We encourage **FOSS enthusiasts, PKM users, and developers** to join and help grow this ecosystem!
