@@ -46,7 +46,7 @@ Essential tools for developers that want to make Obsidian clones a true commodit
 - **[TLDraw](https://github.com/tldraw/tldraw)**
 - **[React & Svelte Flow](https://github.com/xyflow/xyflow)**
 - **[Throwdown JSON Canvas editor](https://github.com/staticeys/Throwdown)** (experimental)
-- **[Open Canvas Interchange Format sync tools](https://github.com/ocwg)**
+- **[Open Canvas Interchange Format tools](https://github.com/ocwg)**
 
 
 # 🌎 Community
