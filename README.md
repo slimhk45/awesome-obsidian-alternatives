@@ -24,6 +24,7 @@ Implementations listed here require an importer step for Obsidian vaults because
 - [**HelixNotes**](https://codeberg.org/ArkHost/HelixNotes) > cross-platform, UpNote-like UI
 
 # Tech Stack for Building Obsidian Clones
+Essential tools for developers who want to create their own Obsidian clones and help make Obsidian clones a true commodity for the future.
 
 ## Filesystem
 - **[Tauri](https://github.com/tauri-apps/tauri)**
