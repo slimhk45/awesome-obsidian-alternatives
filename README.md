@@ -48,7 +48,7 @@ Essential tools for developers that want to make Obsidian clones a true commodit
 - **[Open Canvas Interchange Format tools](https://github.com/ocwg)** (see this [issue](https://github.com/lokus-ai/lokus/issues/433))
 - **[Excalidraw](https://github.com/excalidraw/excalidraw)**  
 - **[TLDraw](https://github.com/tldraw/tldraw)**
-- **[React & Svelte Flow](https://github.com/xyflow/xyflow)**
+- **[React Flow | Svelte Flow](https://github.com/xyflow/xyflow)**
 - **[Throwdown JSON Canvas editor](https://github.com/staticeys/Throwdown)** (experimental)
 
 
