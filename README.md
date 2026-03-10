@@ -12,17 +12,17 @@ To be listed here, the FOSS Obsidian clone must work with the Obsidian vault for
 [^2]: Both wililinks with short path and long path must be understood and updated after renaming operations.
 [^3]: Optional features include cross-platform support, built-in P2P sync, and specialized views (such as graph view or base view) that parse metadata from YAML frontmatter.
 
-- **[Lokus](https://github.com/lokus-ai/lokus)** > cross-platform, canvas supported[^5], graph and base views supported
-- **[Otterly](https://github.com/ajkdrag/otterly)** > cross-platform, canvas planned
-- **[Cherit](https://github.com/Keshav-writes-code/Cherit)** > cross-platform, canvas planned
-- **[Foam](https://github.com/foambubble/foam)** > VS Code plugin, not cross-platform
+- **[Lokus](https://github.com/lokus-ai/lokus)** → cross-platform, canvas supported[^5], graph and base views supported
+- **[Otterly](https://github.com/ajkdrag/otterly)** → cross-platform, canvas planned
+- **[Cherit](https://github.com/Keshav-writes-code/Cherit)** → cross-platform, canvas planned
+- **[Foam](https://github.com/foambubble/foam)** → VS Code plugin, not cross-platform
 
 [^5]: Only Excalidraw format for now, but using JSON Canvas as storage format is on the roadmap.
 
 ## Tier 2 (opinionated)
 Implementations listed here require an importer step for Obsidian vaults due to having a **hard-coded attachment folder** or enforcing **long paths for wikilinks**. While canvas support is not mandatory for listing, a free folder structure for markdown notes is still essential.
 
-- [**HelixNotes**](https://codeberg.org/ArkHost/HelixNotes) > cross-platform, UpNote-like UI
+- [**HelixNotes**](https://codeberg.org/ArkHost/HelixNotes) → cross-platform, UpNote-like UI
 
 
 # 🚀 Tech Stack for Building Obsidian Clones
@@ -55,8 +55,8 @@ Essential tools for developers that want to make Obsidian clones a true commodit
 
 This ecosystem is built for anyone interested in **FOSS alternatives compatible with the Obsidian vault format**. There are three channels to get involved:
 
-- **[Discord](https://discord.gg/fhwfqZzEJf)** – Chat with developers and other users about the future of the ecosystem on our server.
-- **[r/ObsidianAlternative](https://www.reddit.com/r/ObsidianAlternative/)** - Follow the latest updates and ask questions about the mentioned projects on our subreddit.
-- **[Github](https://github.com/slimhk45/awesome-obsidian-alternatives/issues)** – Know of a project we missed or want to improve this list? You can open an issue.
+- **[Discord](https://discord.gg/fhwfqZzEJf)** → Chat with developers and other users about the future of the ecosystem on our server.
+- **[r/ObsidianAlternative](https://www.reddit.com/r/ObsidianAlternative/)** → Follow the latest updates and ask questions about the mentioned projects on our subreddit.
+- **[Github](https://github.com/slimhk45/awesome-obsidian-alternatives/issues)** → Know of a project we missed or want to improve this list? You can open an issue.
 
 We encourage **FOSS enthusiasts, PKM users, and developers** to join and help grow this ecosystem!
