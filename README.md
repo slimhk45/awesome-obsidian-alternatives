@@ -15,6 +15,7 @@ To be listed here, the FOSS Obsidian clone must work with the Obsidian vault for
 - **[Lokus](https://github.com/lokus-ai/lokus)** → cross-platform, canvas supported[^5], graph and base views supported
 - **[Otterly](https://github.com/ajkdrag/otterly)** → cross-platform, canvas planned
 - **[Cherit](https://github.com/Keshav-writes-code/Cherit)** → cross-platform, canvas planned
+- **[Mdit](https://github.com/hjinco/mdit)** → macOS-optimized, canvas and base planned
 - **[Foam](https://github.com/foambubble/foam)** → VS Code plugin, not cross-platform
 
 [^5]: Only Excalidraw format for now, but using JSON Canvas as storage format is on the roadmap.
