@@ -10,7 +10,7 @@ To be listed here, the FOSS Obsidian clone must work with the Obsidian vault for
 [^0]: Obsidian-flavored Markdown. 
 [^1]: Implementing JSON Canvas as storage format must at least be present on the roadmap.
 [^2]: The link handler must precisely: resolve links using the shortest unambiguous part of the path; Show an alias synced to the base name by default; update backlinks after renaming operations or shadowing scenarios.
-[^3]: Optional features include cross-platform support, built-in P2P sync, and specialized views (such as graph view or base view) that parse metadata from YAML frontmatter.
+[^3]: Optional features include cross-platform support, built-in P2P sync, real-time collab and specialized views (such as graph view or base view) that parse metadata from YAML frontmatter.
 
 - **[Lokus](https://github.com/lokus-ai/lokus)** → cross-platform, canvas supported[^5], graph and base views supported
 - **[Otterly](https://github.com/ajkdrag/otterly)** → cross-platform, canvas planned
