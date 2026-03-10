@@ -5,11 +5,11 @@
 # 📂 List of active FOSS Obsidian Clones
 
 ## Tier 1 (fully Obsidian-compatible)
-To be listed here, the FOSS Obsidian clone must work with the Obsidian vault format **without requiring a custom importer**. This means same **Markdown[^0]** and **JSON Canvas[^1]**, same **bidirectional link handling[^2]** and same **free folder structure** for notes and their attachments. **Other features[^3] are optional**.
+To be listed here, the FOSS Obsidian clone must work with the Obsidian vault format **without requiring a custom importer**. This means same **Markdown[^0]** and **JSON Canvas[^1]**, same **bidirectional link handling[^2]** and same **arbitrary folder structure** for notes and their attachments. **Other features[^3] are optional**.
 
 [^0]: Obsidian-flavored Markdown. 
 [^1]: Implementing JSON Canvas as storage format must at least be present on the roadmap.
-[^2]: Both wililinks with short path and long path must be understood and updated after renaming operations.
+[^2]: The link handler must precisely: resolve links using the shortest unambiguous part of the path; Show an alias synced to the base name by default; update backlinks after renaming operations or shadowing scenarios.
 [^3]: Optional features include cross-platform support, built-in P2P sync, and specialized views (such as graph view or base view) that parse metadata from YAML frontmatter.
 
 - **[Lokus](https://github.com/lokus-ai/lokus)** → cross-platform, canvas supported[^5], graph and base views supported
@@ -21,7 +21,7 @@ To be listed here, the FOSS Obsidian clone must work with the Obsidian vault for
 [^5]: Only Excalidraw format for now, but using JSON Canvas as storage format is on the roadmap.
 
 ## Tier 2 (opinionated)
-Implementations listed here require an importer step for Obsidian vaults due to having a **hard-coded attachment folder** or enforcing **long paths for wikilinks**. While canvas support is not mandatory for listing here, a free folder structure for markdown notes is still essential.
+Implementations listed here require an importer step for Obsidian vaults due to having a **hard-coded attachment folder** or enforcing **long paths for wikilinks**. While canvas support is not mandatory for listing here, an arbitrary folder structure for markdown notes is still essential.
 
 - [**HelixNotes**](https://codeberg.org/ArkHost/HelixNotes) → cross-platform, UpNote-like UI
 
