@@ -10,7 +10,7 @@ To be listed here, the FOSS Obsidian clone must work with the Obsidian vault for
 [^0]: Obsidian-flavored Markdown with a WYSIWYG table editing helper.
 [^1]: Implementing JSON Canvas as storage format must at least appear on the roadmap. The editors are free to use whatever frontend and internal representation format they want during editing.
 [^2]: The link handler indexes all vault paths alphanumerically and resolves links using path suffixes. Backlinks are automatically updated when paths are renamed. When two suffix homonyms are introduced in the index—by adding or renaming a path—existing links to the lowest-ranking homonym are prefixed to maintain uniqueness. An alias kept in-sync with the base file name is added to hide the prefix from the reading view.
-[^3]: Optional features may include cross-platform support, P2P sync/collab, secondary YAML metadata, metadata views (graph/base, orphans/homonyms), rich bookmarks and icon-enhanced file explorer.
+[^3]: Optional features may include cross-platform support, P2P sync/collab, secondary YAML metadata, metadata views (graph/base, orphans/homonyms), icon-enhanced links and file explorer.
 
 - **[Lokus](https://github.com/lokus-ai/lokus)** → cross-platform, canvas supported[^5], graph and base views supported
 - **[Otterly](https://github.com/ajkdrag/otterly)** → cross-platform, canvas planned
