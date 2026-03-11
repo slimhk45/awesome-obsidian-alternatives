@@ -7,7 +7,7 @@
 ## Tier 1 (fully Obsidian-compatible)
 To be listed here, the FOSS Obsidian clone must work with the Obsidian vault format **without requiring a custom importer**. This means same **Markdown[^0]** and **JSON Canvas[^1]**, same bidirectional link handling **with short path suffixes[^2]** and same **arbitrary folder structure** for notes and their attachments. **Other features[^3] are optional**.
 
-[^0]: Obsidian-flavored Markdown. 
+[^0]: Obsidian-flavored Markdown with a WYSIWYG table editing helper. 
 [^1]: Implementing JSON Canvas as storage format must at least appear on the roadmap. The editors are free to use whatever frontend and internal representation format they want during editing.
 [^2]: The link handler indexes all vault paths, sorted alphanumerically. Links are written using the shortest unique path suffixes. When multiple files share a suffix, the first path in sort order wins. Backlinks are rewritten after a path is renamed, and prefixed when shadowed. To hide prefixes in reading view, an alias equals to the base name is added in the link.
 [^3]: Optional features may include cross-platform support, built-in P2P sync/collab, secondary YAML frontmatter metadata alongside folders and links, views parsing these metadata (graph, base), and plugins for finding orphans and homonyms.
