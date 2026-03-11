@@ -40,6 +40,7 @@ Essential tools for developers that want to make Obsidian clones a true commodit
 ## Markdown
 - **[Obsidian-Flavored Markdown spec](https://help.obsidian.md/obsidian-flavored-markdown)**
 - **[reMark](https://github.com/remarkjs/remark)**
+- **[markdown-it](https://github.com/markdown-it/markdown-it)**
 - **[CodeMirror](https://github.com/codemirror/dev)**  
 - **[ProseMirror](https://github.com/ProseMirror/prosemirror)**
 
