@@ -23,7 +23,7 @@ To be listed here, the FOSS Obsidian clone must work with the Obsidian vault for
 ## Tier 2 (opinionated)
 Implementations listed here require an importer step for Obsidian vaults due to having a **hard-coded attachment folder** or enforcing **full vault paths for wikilinks[^4]**. While canvas support is not mandatory for listing here, an arbitrary folder structure for markdown notes is still essential.
 
-[^4]: This prevents changing the scope of the vault.
+[^4]: This prevents changing the scope of the vault. For instance to join two separate vaults in a single parent vault.
 
 - [**HelixNotes**](https://codeberg.org/ArkHost/HelixNotes) → cross-platform, UpNote-like UI
 
