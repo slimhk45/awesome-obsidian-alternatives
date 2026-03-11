@@ -21,7 +21,7 @@ To be listed here, the FOSS Obsidian clone must work with the Obsidian vault for
 [^5]: Only Excalidraw format for now, but using JSON Canvas as storage format is on the roadmap.
 
 ## Tier 2 (opinionated)
-Implementations listed here require an importer step for Obsidian vaults due to having a **hard-coded attachment folder** or enforcing **full vault paths for wikilinks[^4]**. While canvas support is not mandatory for listing here, an arbitrary folder structure for markdown notes is still essential.
+Implementations listed here require an importer step for Obsidian vaults due to having a **hard-coded attachment folder** or **forcing full vault paths for wikilinks[^4]**. While canvas support is not mandatory for listing here, an arbitrary folder structure for markdown notes is still essential.
 
 [^4]: This prevents changing the scope of the vault, such as combining two separate vaults in a single parent vault.
 
