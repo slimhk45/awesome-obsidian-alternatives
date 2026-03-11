@@ -5,7 +5,7 @@
 # 📂 List of active FOSS Obsidian Clones
 
 ## Tier 1 (fully Obsidian-compatible)
-To be listed here, the FOSS Obsidian clone must work with the Obsidian vault format **without requiring a custom importer**. This means same **Markdown[^0]** and **JSON Canvas[^1]**, same **bidirectional link handling[^2]** and same **arbitrary folder structure** for notes and their attachments. **Other features[^3] are optional**.
+To be listed here, the FOSS Obsidian clone must work with the Obsidian vault format **without requiring a custom importer**. This means same **Markdown[^0]** and **JSON Canvas[^1]**, same **bidirectional link handling with vault path suffixes[^2]** and same **arbitrary folder structure** for notes and their attachments. **Other features[^3] are optional**.
 
 [^0]: Obsidian-flavored Markdown. 
 [^1]: Implementing JSON Canvas as storage format must at least appear on the roadmap. The editors are free to use whatever frontend and internal representation format they want during editing.
@@ -21,7 +21,9 @@ To be listed here, the FOSS Obsidian clone must work with the Obsidian vault for
 [^5]: Only Excalidraw format for now, but using JSON Canvas as storage format is on the roadmap.
 
 ## Tier 2 (opinionated)
-Implementations listed here require an importer step for Obsidian vaults due to having a **hard-coded attachment folder** or enforcing **full vault paths for wikilinks**. While canvas support is not mandatory for listing here, an arbitrary folder structure for markdown notes is still essential.
+Implementations listed here require an importer step for Obsidian vaults due to having a **hard-coded attachment folder** or enforcing **full vault paths for wikilinks[^4]**. While canvas support is not mandatory for listing here, an arbitrary folder structure for markdown notes is still essential.
+
+[^4]: This prevents changing the scope of the vault.
 
 - [**HelixNotes**](https://codeberg.org/ArkHost/HelixNotes) → cross-platform, UpNote-like UI
 
