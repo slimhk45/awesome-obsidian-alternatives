@@ -5,7 +5,7 @@
 # 📂 List of active FOSS Obsidian Clones
 
 ## Tier 1 (fully Obsidian-compatible)
-To be listed here, the FOSS Obsidian clone must work with the Obsidian vault format **without requiring a custom importer**. This means same **Markdown[^0]** and **JSON Canvas[^1]**, same bidirectional link handling **with short path suffixes[^2]** and same **arbitrary folder structure** for notes and their attachments. **Other features[^3] are optional**.
+To be listed here, the FOSS Obsidian clone must work with the Obsidian vault format **without requiring a custom importer**. This means same **Markdown[^0]** and **JSON Canvas[^1]**, same bidirectional link handling **with short path suffixes[^2]**, and same **arbitrary folder structure** for notes and their attachments. **Other features[^3] are optional**.
 
 [^0]: Obsidian-flavored Markdown with a WYSIWYG table editing helper.
 [^1]: Implementing JSON Canvas as storage format must at least appear on the roadmap. The editors are free to use whatever frontend and internal representation format they want during editing.
