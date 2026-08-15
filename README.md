@@ -17,6 +17,7 @@ To be listed here, the FOSS Obsidian clone must work with the Obsidian vault for
 - **[Cherit](https://github.com/Keshav-writes-code/Cherit)** → cross-platform, canvas planned
 - **[Mdit](https://github.com/hjinco/mdit)** → macOS-optimized, canvas and base planned
 - **[Foam](https://github.com/foambubble/foam)** → VS Code plugin, not cross-platform
+- **[Nephrite](https;//github.com/bithead2k/nephrite)** → cross platform, obsidian++, 7 plugins moved to core, mobile devices in planning
 
 [^5]: Only Excalidraw format for now, but using JSON Canvas as storage format is on the roadmap.
 
