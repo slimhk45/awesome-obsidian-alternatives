@@ -25,6 +25,7 @@ Implementations listed here require an importer step for Obsidian vaults due to 
 
 [^4]: This prevents changing the scope of the vault, such as combining two separate vaults in a single parent vault.
 
+- **[Tangent](https://www.tangentnotes.com/)** → cross-platform, Obsidian-flavored Markdown, Maps of Cognition/Navigation graph, Threaded view of notes,...
 - [**HelixNotes**](https://codeberg.org/ArkHost/HelixNotes) → cross-platform, UpNote-like UI
 
 
