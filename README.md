@@ -13,6 +13,7 @@ To be listed here, the FOSS Obsidian clone must work with the Obsidian vault for
 [^3]: Optional features may include cross-platform support, P2P sync/collab, secondary YAML metadata, metadata views (graph/base/orphans/homonyms), and icon-enhanced links/file explorer.
 
 - **[Lokus](https://github.com/lokus-ai/lokus)** → cross-platform, canvas supported[^5], graph and base views supported
+- **[Knovum](https://github.com/madebyzan/knovum)** → cross-platform (Tauri 2 + Rust + Vue 3), native JSON Canvas (.canvas) support, SQLite + embedded LanceDB local RAG, offline Whisper audio transcription
 - **[Otterly](https://github.com/ajkdrag/otterly)** → cross-platform, canvas planned
 - **[Cherit](https://github.com/Keshav-writes-code/Cherit)** → cross-platform, canvas planned
 - **[Mdit](https://github.com/hjinco/mdit)** → macOS-optimized, canvas and base planned
@@ -38,6 +39,7 @@ Essential tools for developers that want to make Obsidian clones a true commodit
 ## UI
 - **[React](https://github.com/facebook/react)**
 - **[Svelte](https://github.com/sveltejs/svelte)**
+- **[Vue](https://github.com/vuejs/core)**
 
 ## Markdown
 - **[Obsidian-Flavored Markdown spec](https://help.obsidian.md/obsidian-flavored-markdown)**
